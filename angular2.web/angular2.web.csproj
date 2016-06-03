@@ -173,9 +173,6 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
-    <Content Include="ngApp\app\app.component.js" />
-    <Content Include="ngApp\app\main.js" />
-    <Content Include="ngApp\main.js" />
     <Content Include="ngApp\systemjs.config.js" />
     <Content Include="Scripts\ai.0.22.9-build00167.js" />
     <Content Include="Scripts\ai.0.22.9-build00167.min.js" />
@@ -185,12 +182,9 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="package.json" />
-    <Content Include="ngApp\app\app.component.js.map" />
-    <Content Include="ngApp\app\main.js.map" />
     <Content Include="ngApp\typings\globals\core-js\typings.json" />
     <Content Include="ngApp\typings\globals\jasmine\typings.json" />
     <Content Include="ngApp\typings\globals\node\typings.json" />
-    <Content Include="ngApp\main.js.map" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
